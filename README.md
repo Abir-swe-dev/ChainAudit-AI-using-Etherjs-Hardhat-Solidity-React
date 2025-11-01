@@ -65,6 +65,10 @@ A comprehensive cryptocurrency token audit tool built with modern web technologi
 - Node.js 18+ 
 - npm or yarn
 
+### Live Link
+
+https://project-lgbq.vercel.app/
+
 ### Installation
 
 1. Clone the repository
