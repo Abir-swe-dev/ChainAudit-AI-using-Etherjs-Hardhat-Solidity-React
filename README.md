@@ -2,6 +2,10 @@
 
 A comprehensive cryptocurrency token audit tool built with modern web technologies and blockchain integration.
 
+![image alt](https://github.com/Abir-swe-dev/ChainAudit-AI-using-Etherjs-Hardhat-Solidity-React/blob/a58a2ef5756cf4e2ec0281ae7f5ab727d36f452f/audit%20token.PNG)
+
+
+
 ## Features
 
 ### 🔒 Security Analysis
